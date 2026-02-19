@@ -8,6 +8,8 @@ The main implementation must be a Command Line Interface (CLI) application writt
 
 An optional FastAPI implementation is available as a bonus challenge.
 
+[PDF Problemset (Generated from this .md)](https://drive.google.com/file/d/1tLf9TpGWT3NhuwZCo7MUhcj-ZIwpKDBG/view?usp=sharing)
+
 **Deadline: 11:59 PM, 22nd February 2026**
 
 ## Prizes & Rewards
@@ -398,3 +400,4 @@ The form will ask for:
 ---
 
 End of Challenge. Happy Ramadan!
+

@@ -401,3 +401,7 @@ The form will ask for:
 
 End of Challenge. Happy Ramadan!
 
+
+Fasting changes productivity patterns because the body relies on stored energy, which often leads to a peak in mental clarity and focus. However, as energy levels deplete over time, productivity may decrease, creating a specific window of high performance.
+During fasting, mental energy does not follow a linear path; instead, it peaks at a certain point and then declines as physical exhaustion sets in. Moderate study hours are optimal because they allow a student to utilize their peak cognitive window before reaching the point of diminishing returns.
+​In calculus, this is represented by a downward-opening quadratic function (a parabola where the leading coefficient is negative). The "optimal" study time corresponds to the vertex of the parabola, where the derivative of the energy function is zero (f'(x) = 0), marking the maximum point of efficiency. Beyond this point, any additional study hours lead to a decrease in overall mental energy and retention.
